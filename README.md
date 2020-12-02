@@ -4,7 +4,7 @@
 * [OpenCV](https://opencv.org/) >= 3.4
 * [PyTorch](https://pytorch.org/) >= 0.4
 
-This depends on a few standard pythonic modules, plus OpenCV and PyTorch
+This depends on a few standard pythonic modules, and OpenCV and PyTorch
 
 ```sh
 pip install opencv-python
