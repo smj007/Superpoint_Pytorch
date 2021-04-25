@@ -1,6 +1,6 @@
 <div align = "center">
 
-# ☢️: Superpoint_Pytorch ☢️:
+# ☢️ Superpoint_Pytorch ☢️
 
 </div>
 
