@@ -20,8 +20,8 @@ This demo will run the SuperPoint network on a single image
 
 
 ```sh
-#Specify the image in path (Lines 255-257 in rw.py)
-python3 rw1.py
+#Specify the image in path (Lines 255-257 in superpoint.py)
+python3 superpoint.py
 ```
 
 ## References - 
